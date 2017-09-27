@@ -1,16 +1,20 @@
 # Pixel Art Maker Project
 
+   Creates a grid specified by the user input_width and input_height.  
+   Allows the user to select a color and when the user clicks within
+   a cell, it changes the background color of that cell, with the color that was
+   picked by the user.
+
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+  designs.js - javascript file that has the jquery functionality
+  index.html - html file for the pixel Project
+  styles.css - styles the pixel Project
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+  Open the index.html in the web browser
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+  Meena Kamran implemented the jquery behind the submit button.
